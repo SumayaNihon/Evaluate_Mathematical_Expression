@@ -44,6 +44,7 @@ The evaluate_expression function includes error handling to provide informative 
 ## Output
 
 > **Enter a mathematical expression: (10-2)*2+(6/2)**
+
 > **Evaluated Result: 19.0**
 
 
