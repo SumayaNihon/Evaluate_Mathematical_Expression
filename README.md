@@ -9,9 +9,9 @@ This Python utility allows you to evaluate mathematical expressions provided as 
 - [Usage](#usage)
 - [Supported Operators](#supported-operators)
 - [Error Handling](#error-handling)
-- [Example](#example)
-- [Important Note](#important-note)
-- [License](#license)
+- [Output](#output)
+- [Code](#code)
+
 
 ## Overview
 
@@ -29,10 +29,10 @@ To use the `evaluate_expression` function, follow these steps:
 
 The function supports the following mathematical operators:
 
-- + (Addition)
-- - (Subtraction)
-- * (Multiplication)
-- / (Division)
+- (+) (Addition)
+- (-) (Subtraction)
+- (*) (Multiplication)
+- (/) (Division)
 
 ## Error Handling
 The evaluate_expression function includes error handling to provide informative error messages:
@@ -43,8 +43,8 @@ The evaluate_expression function includes error handling to provide informative 
 
 ## Output
 
-Enter a mathematical expression: (10-2)*2+(6/2)
-Evaluated Result: 19.0
+`Enter a mathematical expression: (10-2)*2+(6/2)`
+`Evaluated Result: 19.0`
 
 
 ## Code
